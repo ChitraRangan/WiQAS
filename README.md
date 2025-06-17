@@ -10,8 +10,8 @@ Registration is free, but required for all attendees.  Please register before Ju
 
 While registering, you will have the opportunity to submit <br/>
 > An <ins>abstract for a poster</ins> to be presented in the poster session. <br/>
-> A <ins>two-page paper</ins> that will be published on the conference website. <br/>
-Presentation is not required for conference participation.
+> A <ins>two-page paper</ins> that will be published on the conference website. 
+<br/>Presentation is not required for conference participation.
 
 ### Questions?  Please ask:
 Tirupati Bolisetti, Ph. D., P.Eng. (Civil Engineering) <br/>
