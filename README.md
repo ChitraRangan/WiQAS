@@ -11,6 +11,7 @@ Please register before June 30th, 2025 at [https://forms.office.com/r/N1228KXqsN
 While registering, you will have the opportunity to submit 
 - An abstract for a poster to be presented in the poster session.
 - A two-page paper that will be published on the conference website. </br>
+
 Presentation is not required for conference participation.
 
 Questions?  Please ask: </br>
