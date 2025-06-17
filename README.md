@@ -9,9 +9,9 @@
 Registration is free, but required for all attendees.  Please register before June 30th, 2025 at [https://forms.office.com/r/N1228KXqsN](https://forms.office.com/r/N1228KXqsN) .
 
 While registering, you will have the opportunity to submit <br/>
-> An <ins>abstract for a poster</ins> to be presented in the poster session. <br/>
-> A <ins>two-page paper</ins> that will be published on the conference website. 
-<br/>Presentation is not required for conference participation.
+- An <ins>abstract for a poster</ins> to be presented in the poster session. <br/>
+- A <ins>two-page paper</ins> that will be published on the conference website. 
+<br/> Presentation is not required for conference participation.
 
 ### Questions?  Please ask:
 Tirupati Bolisetti, Ph. D., P.Eng. (Civil Engineering) <br/>
