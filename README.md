@@ -30,8 +30,8 @@
 15:45 -	 16:15	Tirupati Bolisetti, Civil and Environmental Engineering <br/>
 16:15 -	 16:35	Joseph Santarelli, MITACS <br/>
 16:35	-  16:55	Discussions on collaborations and project ideas <br/>
-### Closing Remarks<br/>
-16:55	-  17:00	Sreekanta Das, Associate Dean, Faculty of Engineering <br/>
+### 16:55	-  17:00	Closing Remarks<br/>
+•	Sreekanta Das, Associate Dean, Faculty of Engineering <br/>
 
 ### Registration
 Registration is now closed.  
