@@ -7,30 +7,30 @@
 
 ## Agenda
 8:30 -	   9:00	Registration/Check-in <br/>
-### 9:00 -	   9:30	Inaugural Session:<br/>
+### 9:00 -	   9:30	Inaugural Session:
 •	Robert Gordon, President<br/>
 •	Shanthi Johnson, Vice-President Research Innovation (Virtual) <br/>
 •	Claudio Verani, Dean, Faculty of Science<br/>
 •	Bill Van Heyst, Dean, Faculty of Engineering<br/>
 ### 9.30 -	 10.15	Keynote: Julien Chosson, IBM Canada<br/>
 10:15 -	 10:30	Coffee Break<br/>
-### Session 2<br/>
+### Session 2
 10:30 -	 11:00	Greg Dick, Open Quantum Design (OQD)<br/>
 11:00 -	 11:30	Bruna Shinohara de Mendonça, CMC Microsystems (Virtual) <br/>
 11:30 -	 12:00	Chitra Rangan, Physics <br/>
-### Session 3<br/>
+### Session 3
 12:00 -	13:00	Poster presentations & Networking<br/><br/>
 13:00 -	14:00	Lunch Break<br/>
-### Session 4<br/>
+### Session 4
 14:00 -	 14:30	Daniel Nino, Xanadu (Virtual)<br/>
 14:30 -	 15:00	Brynle Barrett, University of New Brunswick (Virtual)<br/>
 15:00 -	 15:30	Mitra Mirhassani, Electrical and Computer Engineering<br/><br/>
 15:30 -	 15:45	Coffee break<br/>
-### Session 5<br/>
+### Session 5
 15:45 -	 16:15	Tirupati Bolisetti, Civil and Environmental Engineering <br/>
 16:15 -	 16:35	Joseph Santarelli, MITACS <br/>
 16:35	-  16:55	Discussions on collaborations and project ideas <br/>
-### 16:55	-  17:00	Closing Remarks<br/>
+### 16:55	-  17:00	Closing Remarks
 •	Sreekanta Das, Associate Dean, Faculty of Engineering <br/>
 
 ## Registration
