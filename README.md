@@ -8,24 +8,34 @@
 ## Agenda
 8:30 -	   9:00	Registration/Check-in <br/>
 ### 9:00 -	   9:30	Inaugural Session:
-•	Robert Gordon, President<br/>
-•	Shanthi Johnson, Vice-President Research Innovation (Virtual) <br/>
-•	Claudio Verani, Dean, Faculty of Science<br/>
-•	Bill Van Heyst, Dean, Faculty of Engineering<br/>
+> •	Robert Gordon, President<br/>
+> •	Shanthi Johnson, Vice-President Research Innovation (Virtual) <br/>
+> •	Claudio Verani, Dean, Faculty of Science<br/>
+> •	Bill Van Heyst, Dean, Faculty of Engineering<br/>
 ### 9.30 -	 10.15	Keynote Address
-•	Julien Chosson, IBM Canada 'Seizing the quantum opportunity: progress, potential and pathways to applications' <br/>
+•	Julien Chosson, IBM Canada <br/>
+> 'Seizing the quantum opportunity: progress, potential and pathways to applications' <br/>
+
 10:15 -	 10:30	Coffee Break<br/>
 ### Session 2
 10:30 -	 11:00	Greg Dick, Open Quantum Design (OQD)<br/>
 11:00 -	 11:30	Bruna Shinohara de Mendonça, CMC Microsystems (Virtual) <br/>
-11:30 -	 12:00	Chitra Rangan, Physics 'Designing a Quantum Memory in Solids' <br/>
+11:30 -	 12:00	Chitra Rangan, Physics <br/>
+> 'Designing a Quantum Memory in Solids' <br/>
+
 ### Session 3
 12:00 -	13:00	Poster presentations & Networking<br/><br/>
 13:00 -	14:00	Lunch Break<br/>
 ### Session 4
-14:00 -	 14:30	Daniel Nino, Xanadu (Virtual) 'Quantum computing with Xanadu and PennyLane: photonic quantum computing, quantum programming and open-source education' <br/>
-14:30 -	 15:00	Brynle Barrett, University of New Brunswick (Virtual) 'Quantum Sensing Platforms for Real-World Applications' <br/>
-15:00 -	 15:30	Mitra Mirhassani, Electrical and Computer Engineering 'Breaking the Unbreakable Post Quantum Cryptography' <br/><br/>
+14:00 -	 14:30	Daniel Nino, Xanadu (Virtual) <br/>
+> 'Quantum computing with Xanadu and PennyLane: photonic quantum computing, quantum programming and open-source education' <br/>
+
+14:30 -	 15:00	Brynle Barrett, University of New Brunswick (Virtual)<br/>
+> 'Quantum Sensing Platforms for Real-World Applications' <br/>
+
+15:00 -	 15:30	Mitra Mirhassani, Electrical and Computer Engineering<br/>
+> 'Breaking the Unbreakable Post Quantum Cryptography' <br/><br/>
+
 15:30 -	 15:45	Coffee break<br/>
 ### Session 5
 15:45 -	 16:15	Tirupati Bolisetti, Civil and Environmental Engineering <br/>
