@@ -12,7 +12,7 @@
 •	Shanthi Johnson, Vice-President Research Innovation (Virtual) <br/>
 •	Claudio Verani, Dean, Faculty of Science<br/>
 •	Bill Van Heyst, Dean, Faculty of Engineering<br/>
-### 9.30 -	 10.15	Keynote: Julien Chosson, IBM Canada<br/><br/>
+### 9.30 -	 10.15	Keynote: Julien Chosson, IBM Canada<br/>
 10:15 -	 10:30	Coffee Break<br/>
 ### Session 2<br/>
 10:30 -	 11:00	Greg Dick, Open Quantum Design (OQD)<br/>
