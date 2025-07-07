@@ -33,12 +33,13 @@
 ### 16:55	-  17:00	Closing Remarks<br/>
 •	Sreekanta Das, Associate Dean, Faculty of Engineering <br/>
 
-### Registration
+## Registration
 Registration is now closed.  
 
-### Questions?  Please ask:
+## Questions?  Please ask:
 Tirupati Bolisetti, Ph. D., P.Eng. (Civil Engineering) <br/>
 Chitra Rangan, Ph.D. (Physics) <br/>
 Sreekanta Das, Ph. D., P.Eng. (Civil Engineering) <br/>
 
-This Symposium is jointly sponsored by the the [Faculty of Engineering](https://www.uwindsor.ca/engineering/) and [Faculty of Science](https://www.uwindsor.ca/science/) at the University of Windsor.  'Quantum Canada 2025' pins are provided thanks to the [Canadian Association of Physicists](https://iyqcda.cap.ca/).
+## Acknowledgements
+This Symposium is jointly sponsored by the the [Faculty of Engineering](https://www.uwindsor.ca/engineering/) and [Faculty of Science](https://www.uwindsor.ca/science/) at the University of Windsor.  'Quantum Canada 2025' pins are provided thanks to the [Canadian Association of Physicists](https://iyqcda.cap.ca/).  We thank the volunteers who are involved in running this symposium: 
