@@ -12,6 +12,7 @@
 > •	Shanthi Johnson, Vice-President Research Innovation (Virtual) <br/>
 > •	Claudio Verani, Dean, Faculty of Science<br/>
 > •	Bill Van Heyst, Dean, Faculty of Engineering<br/>
+
 ### 9.30 -	 10.15	Keynote Address
 •	Julien Chosson, IBM Canada <br/>
 > 'Seizing the quantum opportunity: progress, potential and pathways to applications' <br/>
