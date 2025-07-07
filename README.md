@@ -20,6 +20,8 @@
 10:15 -	 10:30	Coffee Break<br/>
 ### Session 2
 10:30 -	 11:00	Greg Dick, Open Quantum Design (OQD)<br/>
+> 'Open Quantum Design - the world's first open source quantum computer' <br/>
+
 11:00 -	 11:30	Bruna Shinohara de Mendonça, CMC Microsystems (Virtual) <br/>
 11:30 -	 12:00	Chitra Rangan, Physics <br/>
 > 'Designing a Quantum Memory in Solids' <br/>
