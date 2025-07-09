@@ -3,7 +3,7 @@
 > 9am - 5pm <br/>
 > Ed Lumley CEI—Room 1101 University of Windsor <br/>
 
-2025 is the [International Year of Quantum Science and Technology](https://quantum2025.org/).  Join us to celebrate all things quantum at WiQAS 2025!  We have an exciting line-up of speakers.
+2025 is the [International Year of Quantum Science and Technology](https://quantum2025.org/).  Join us to celebrate quantum in Windsor at WiQAS 2025!  <br/>
 
 ## Agenda
 8:30 -	   9:00	Registration/Check-in <br/>
