@@ -42,10 +42,14 @@
 15:30 -	 15:45	Coffee break<br/>
 ### Session 5
 15:45 -	 16:15	Tirupati Bolisetti, Civil and Environmental Engineering <br/>
+> 'Remote Sensing Data Analysis Using Quantum Computing' <br/>
+
 16:15 -	 16:35	Joseph Santarelli, MITACS <br/>
+> 'Funding opportunities' <br/>
+
 16:35	-  16:55	Discussions on collaborations and project ideas <br/>
 ### 16:55	-  17:00	Closing Remarks
-•	Sreekanta Das, Associate Dean, Faculty of Engineering <br/>
+> •	Sreekanta Das, Associate Dean, Faculty of Engineering <br/>
 
 ## Registration
 Registration is now closed.  
