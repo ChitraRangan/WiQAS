@@ -23,8 +23,10 @@
 > 'Open Quantum Design - the world's first open source quantum computer' <br/>
 
 11:00 -	 11:30	Bruna Shinohara de Mendonça, CMC Microsystems (Virtual) <br/>
+> 'FABrIC: Accelerating Quantum Readiness' <br/>
+
 11:30 -	 12:00	Chitra Rangan, Physics <br/>
-> 'Designing a Quantum Memory in Solids' <br/>
+> 'Designing a Solid-State Quantum Memory' <br/>
 
 ### Session 3
 12:00 -	13:00	Poster presentations & Networking<br/><br/>
